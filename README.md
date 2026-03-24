@@ -190,5 +190,16 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
+## 8) Live Demo (Deployed)
+
+- Frontend (Vercel): https://task-management-system-1ld2b628c.vercel.app/login
+- Backend (Render): https://task-management-system-wvqe.onrender.com/
+
+### Production API Base URL
+- `VITE_API_URL=https://task-management-system-wvqe.onrender.com/api`
+
+
+---
+
 
 
